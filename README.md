@@ -19,7 +19,7 @@ A budget game designed for kids at age of 6 to 9. The game teaches kids the basi
 ## Technology used
 
 - Frontend: React
-- Backend: Rails
+- Backend: Rails, SQL
 
 ## CRUD Table
 

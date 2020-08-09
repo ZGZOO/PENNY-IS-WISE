@@ -22,18 +22,13 @@
 
 (6 weekdays, 1 weekend - total 8 days)
 
-| Task    | Priority | Estimated Time | Actual Time |
-| ------- | -------- | -------------- | ----------- |
-| Backend | H        | 5hrs           | ??          |
-| Backend | H        | 5hrs           | ??          |
-| Backend | H        | 5hrs           | ??          |
-| Backend | H        | 5hrs           | ??          |
-| Backend | H        | 5hrs           | ??          |
-| Backend | H        | 5hrs           | ??          |
-| Backend | H        | 5hrs           | ??          |
-| Backend | H        | 5hrs           | ??          |
-| Backend | H        | 5hrs           | ??          |
-| Backend | H        | 5hrs           | ??          |
-
-
-
+| Task             | Priority | Estimated Time | Actual Time |
+| ---------------- | -------- | -------------- | ----------- |
+| Backend          | H        | 6hrs           | ??          |
+| Models Set Up    | H        | 2hrs           | ??          |
+| Routes           | H        | 3hrs           | ??          |
+| Deploy Backend   | H        | 1.5hrs         | ??          |
+| Frontend         | H        | 15hrs          | ??          |
+| Create Page      | H        | 3hrs           | ??          |
+| Show/Delete Page | H        | 1.5hrs         | ??          |
+| Update Page      | H        | 3hrs           | ??          |

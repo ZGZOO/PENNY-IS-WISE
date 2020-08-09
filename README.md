@@ -38,4 +38,8 @@ A budget game designed for kids at age of 6 to 9. The game teaches kids the basi
 
 ## Approach Taken (?)
 
+- Model
+  - One to many (A user has many activities..)
+  - Many to many (Many users have many activities)?
+
 ## Unsolved Problems
